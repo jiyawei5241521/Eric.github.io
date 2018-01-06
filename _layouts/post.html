@@ -90,7 +90,12 @@ layout: default
                     {% endif %}
                 </ul>
 
-
+                {% if site.youyan_comment %}
+                <!-- UY BEGIN -->
+                <div id="uyan_frame"></div>
+                <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2154592"></script>
+                <!-- UY END -->
+                {% endif %}
                 {% if site.disqus_username %}
                 <!-- disqus 评论框 start -->
                 <div class="comment">
