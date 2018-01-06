@@ -59,7 +59,7 @@ youyan_comment: true
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: f85b8838d6f8ba5aa1afd0be5d408e85
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
