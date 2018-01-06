@@ -93,7 +93,6 @@ layout: default
                 {% if site.youyan_comment %}
                 <!-- UY BEGIN -->
                 <div id="uyan_frame"></div>
-                <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2154592"></script>
                 <!-- UY END -->
                 {% endif %}
                 {% if site.disqus_username %}
@@ -166,6 +165,9 @@ layout: default
     </div>
 </article>
 
+{% if site.youyan_comment %}
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid={{site.youyan_comment}}"></script>
+{% endif %}
 
 {% if site.netease_comment %}
 <!-- 网易云跟帖JS代码 start -->
