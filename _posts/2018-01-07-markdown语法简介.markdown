@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "MarkDown简单示例"
+subtitle:   "快速使用MarkDown简单教程"
+date:       2018-01-07 16:15:00
+author:     "bigpapio"
+header-img: "img/post-bg-2018.jpg"
+catalog: true
+tags:
+    - MarkDown
+---
+
+## 1.标题#
+#一个#代表h1
+##两个#代表h2
+......
+#########9个#代表h9
+
+	## 1.标题#
+	#一个#代表h1
+	##两个#代表h2
+	......
+	#########9个#代表h9
+
+## 2.超链接
+-使用方括号，小括号的形式[papio0112](papio0112.github.io)
+	[papio0112](papio0112.github.io)
+-也可以使用html标签<a href="papio0112.github.io">papio0112</a>
+	<a href="papio0112.github.io">papio0112</a>
+
+## 3.图片
+类似于在超链接前面加上一个英文的感叹号:
+![背景图片](https://papio0112.github.io/img/post-bg-2018.jpg)
+	![图片描述,可以为空,类似于 alt](https://papio0112.github.io/img/post-bg-2018.jpg)
+当然,图片也可以是相对路径啦, ./, ../ 之类的都允许,和 html的相对路径引用是一样的:
