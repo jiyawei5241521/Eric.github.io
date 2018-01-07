@@ -14,7 +14,9 @@ github博客的主题切换也相当简单，网页由github server通过jekyll�
 ### 文章编写
 github使用MarkDown语法，文章的编写是创建一个yyyy-MM-dd-title.markdown在_posts文件夹下，并从本地仓库提交至github远程仓库
 
-简单MarkDown语法可查看[]
+简单MarkDown语法可查看[MarkDown简单示例](https://papio0112.github.io/2018/01/07/markdown%E8%AF%AD%E6%B3%95%E7%AE%80%E4%BB%8B/)
+
+
 
 ### 感谢
 特别感谢此主题开源作者[Hux](https://github.com/Huxpro)
