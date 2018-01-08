@@ -113,10 +113,10 @@ setCanvasSize();
 init();
 
 function setCanvasSize() {
-	WIDTH = $(".site-heading").innerWidth(),
-	HEIGHT = $(".site-heading").innerHeight();
-	canvas.attr("width", WIDTH);
-	canvas.attr("height", HEIGHT);
+	WIDTH = document.getElementById('home-banner').offsetWidth,
+	HEIGHT = document.getElementById('home-banner').offsetHeight;
+	canvas.setAttribute("width", WIDTH);
+	canvas.setAttribute("height", HEIGHT);
 }
 
 function init() {
