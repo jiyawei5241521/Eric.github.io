@@ -113,8 +113,8 @@ setCanvasSize();
 init();
 
 function setCanvasSize() {
-	WIDTH = document.getElementsByClassName("site-heading").clientWidth,
-	HEIGHT = document.getElementsByClassName("site-heading").clientHeight;
+	WIDTH = document.getElementsByClassName("site-heading").offsetWidth,
+	HEIGHT = document.getElementsByClassName("site-heading").offsetHeight;
 	canvas.setAttribute("width", WIDTH);
 	canvas.setAttribute("height", HEIGHT);
 }
