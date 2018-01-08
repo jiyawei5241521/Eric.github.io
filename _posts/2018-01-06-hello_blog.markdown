@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "Hello Blog"
+subtitle:   "博客开通历程"
+date:       2018-01-06 21:15:00
+author:     "bigpapio"
+header-img: "img/home-bg.jpg"
+catalog: true
+tags:
+    - 记录
+---
+
 ### 项目来源
 闲来无事，突发奇想想要弄个博客谢谢东西，作为一个程序员，感觉没有一个自己的博客都算不上一个完整的程序员。想要有一个博客可以记录自己知识点，备忘录也是不错的。
 
