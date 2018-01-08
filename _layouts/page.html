@@ -19,14 +19,14 @@ layout: default
 </header>
 {% else %}
 
-<header class="intro-header" style="background: linear-gradient(to bottom, #000000 0%, #5788fe 100%);">
+<header class="intro-header" style="cursor: none;background: linear-gradient(to bottom, #000000 0%, #5788fe 100%);">
     <div>
         <div class="row">
             <div class="col-lg-12 col-md-12">
                 <div class="landscape"></div>
                 <div class="filter"></div>
                 <canvas id="canvas"></canvas>
-                <div class="site-heading">
+                <div class="site-heading" style="position: absolute;width: 100%;top: 0;">
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <!--<hr class="small">-->
                     <span class="subheading">{{ page.description }}</span>
