@@ -24,7 +24,3 @@ tags:
 `“ohhhh!!!sorry！忘记在听歌了，腿不自觉的跟着抖起来了！”` 我摘下耳机如是说道。
 
 上面这个情景是我在听[`《Pop It In 2》`](http://music.163.com/#/song?id=32341272)的时候发生的。这首歌我也添加到了我的[**beng.beng.beng**](http://music.163.com/#/playlist?id=313853628)歌单中。这个歌单我也会在以后的写码生涯中持续增加的。
-
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=520 src="//music.163.com/outchain/player?type=0&id=313853628&auto=0&height=430"></iframe>
-
