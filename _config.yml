@@ -81,3 +81,5 @@ service-worker: true
     #     href: "http://su.gallery/"
     # }
 #]
+
+theme: jekyll-theme-slate
